@@ -1,0 +1,1 @@
+Para ejecutar el archivo go, se debe ocupar el siguiente comando en la consola: go run a.go
